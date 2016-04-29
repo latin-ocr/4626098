@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4626098_0009.png"; bbox 0 0 2468 3070; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 441 1377 2012 1426">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 441 1377 2012 1426">
+     <span class='ocr_line' id='line_1_1' title="bbox 441 1377 2012 1426; baseline 0.001 -8"><span class='ocrx_word' id='word_1_1' title='bbox 441 1378 827 1426; x_wconf 84' lang='lat' dir='ltr'><strong>ELBERFELDIAE‚</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 863 1378 921 1416; x_wconf 90' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 948 1379 1270 1417; x_wconf 66' lang='lat' dir='ltr'><strong>TvpounAvum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1299 1377 1534 1418; x_wconf 63' lang='lat' dir='ltr'><strong>nummu</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1564 1389 1616 1418; x_wconf 67' lang='grc' dir='ltr'><strong>Μ’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1644 1378 2012 1420; x_wconf 71' lang='lat' dir='ltr'><strong>HmcxmANM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
